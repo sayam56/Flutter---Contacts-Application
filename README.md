@@ -1,6 +1,6 @@
 # contact_app
 
-A new Flutter project.
+A new Flutter application to read, search and call the contacts of user device. Also added for fun, a sliver appbar, appdrawer with multiple page navigation
 
 ## Getting Started
 
