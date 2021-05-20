@@ -2,7 +2,7 @@
 
 A new Flutter application to read, search and call the contacts of user device. Also added for fun, a sliver appbar, appdrawer with multiple page navigation
 
-# Fitness Tracker
+# App Demo
 <p align="center"><img src="contact.gif"/></p>
 
 For help getting started with Flutter, view our
